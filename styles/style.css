@@ -1,0 +1,16 @@
+.entry {
+    color: purple;
+    width: 100px;
+    height: 25000px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    font-weight: inherit;
+    float: left;
+}
+input {
+    background-color: bisque;
+    width: 1000px;
+    height: max-content;
+    box-sizing: inherit;
+    line-height: 100px;
+}
